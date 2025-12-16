@@ -1,4 +1,4 @@
-56939ee10e104ab4a9564a15a520cb53 *DESCRIPTION
+2ee80dc5652168d767feeb709a0a327c *DESCRIPTION
 3f120406a6a53fe1379ed9879e099903 *LICENSE
 5ae69ccc357fb0538a744ef131c019f0 *NAMESPACE
 88b8906829c4825871881c2f14f05276 *NEWS.md
@@ -9,7 +9,7 @@ e03b504611eb046ce0b7219c2cd93e41 *R/globals.R
 df6cc46bc7fae1a55b713f3d5065b35a *R/jollofR-package.R
 772b996a9c0603df9bce81774093e52a *R/plotHist.R
 62bb86dfd42021cc6563969a08780b91 *R/plotRast.R
-6433f86d600c260c07670ce1d1c62c90 *R/pyramid.R
+c1118ab24fd66c15d30912d0e6fd97d5 *R/pyramid.R
 ce2ec6522494dc3f2e5ac5f703bb6788 *R/slices.R
 971fb623c99443b49529add3dc5d4f5a *R/spices.R
 f86c70978ce2dd9874dd587c234ab78a *R/splash.R
@@ -26,7 +26,7 @@ b52aabe9a2757fc86742763db9dafc9b *build/partial.rdb
 e8250ad9384ff287cc41c7fad04c54a3 *man/boxLine.Rd
 0978b7e7e36aea6cd16efe1cc5fe4789 *man/cheesecake.Rd
 f94d436c09ce52e33cbb51f20f1e73f1 *man/cheesepop.Rd
-a7d643869668d0774a7d4c661a510d3c *man/jollofR-package.Rd
+85c5b72cb90cb03b6ca23dd34258f574 *man/jollofR-package.Rd
 ee1cd82b4ccdfdee227a9400970ba076 *man/plotHist.Rd
 0c59f91e4219a2f197eeb2f4d2dee5fa *man/plotRast.Rd
 422611d4928a312f21faa1eca98f5403 *man/pyramid.Rd
@@ -40,4 +40,4 @@ d510c8c9d0206f87278cac5470b72081 *man/spray1.Rd
 7a19b851ae26fc9b0f1ee95e32dcec22 *man/sprinkle1.Rd
 a23c49f5c6ee1abde3ca7a0ba8949dc1 *man/toydata.Rd
 c064c9a3bbfb0255cfd4451061d5fb17 *tests/testthat.R
-67ba053d829cc56e4017972604cd339f *tests/testthat/test_functions.R
+6f416b756b1911406761008673d2f73e *tests/testthat/test_functions.R
